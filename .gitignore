@@ -1,0 +1,27 @@
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Logs
+*.log
+
+# Node modules
+node_modules/
+
+# Environment variables
+.env
+
+# Build folders
+dist/
+build/
+
+# npm
+package-lock.json
+
+# Cache
+.cache/
+
+# Temporary files
+*.tmp
